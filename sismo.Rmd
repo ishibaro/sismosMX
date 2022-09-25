@@ -9,7 +9,7 @@ numbersections: false
 classoption: preprint, 3p, authoryear
 bibliography: referencias/Sismos.bib
 output:
-  bookdown::html_document:
+  html_document:
     toc: true
     toc_depth: 2
   bookdown::pdf_document2: default

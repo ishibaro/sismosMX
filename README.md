@@ -9,7 +9,7 @@ La respuesta inmediata, fundada en la memoria histórica e histérica de los hab
 
 <img src="/img/MagnitudMapa75-1.png" width=80% height=80%>
 
-# H1 Para ver el reporte completo [puedes consultar la carpeta PDF](https://github.com/ishibaro/sismosMX/tree/bd36f95b0d1d24b67196eddf78b19155dc12d4b0/pdf)
+# Para ver el reporte completo [puedes consultar la carpeta PDF](https://github.com/ishibaro/sismosMX/tree/bd36f95b0d1d24b67196eddf78b19155dc12d4b0/pdf)
 
 
 

@@ -9,12 +9,27 @@ La respuesta inmediata, fundada en la memoria histórica e histérica de los hab
 
 <img src="/img/MagnitudMapa75-1.png" width=80% height=80%>
 
+# H1 Para ver el reporte completo [puedes consultar la carpeta PDF](https://github.com/ishibaro/sismosMX/tree/bd36f95b0d1d24b67196eddf78b19155dc12d4b0/pdf)
+
+
+
 ## Datos
 
 ### *Catalogo de Sismos*
 
 Para este ejercicio usé el catálogo de sismos en México desde la página Servicio Sismológico Nacional (México) [<http://www2.ssn.unam.mx:8080/catalogo/>].
-Posteriormente cargué esta tabla en R.
+
 
 <img src="/img/mosaico.png" width=80% height=80%>
+
+## Precaución y advertencia sobre los resultados de este reporte
+
+Si bien este reporte / análisis no es concluyente ni pretende mostrar que el realismo mágico tiene un componente
+real, sí intenta mostrar que existe potencialmente un estudio de caso geológico que podría ser estudiado con
+más calma y menos emociones cientificistas casi intolerantes a cualquier otro tipo de pensamiento. Es posible
+que sí exista un patrón y que este tipo de estudios aporten soluciones a la largo plazo o futuras generaciones
+en la comprohensión de los sismos y si no su predictabilidad, al menos su posible periodicidad o aumento de
+intensidad debido a factores que por ahora no han sido estudiados ampliamente como el clima, la cercanía de
+la Tierra al sol, los ciclos lunares, el aumento de temperatura global, los cambios de temperatura del lecho
+marino, la erosión, etcétera.
 

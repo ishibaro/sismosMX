@@ -25,11 +25,11 @@ Para este ejercicio usé el catálogo de sismos en México desde la página Serv
 ## Precaución y advertencia sobre los resultados de este reporte
 
 Si bien este reporte / análisis no es concluyente ni pretende mostrar que el realismo mágico tiene un componente
-real, sí intenta mostrar que existe potencialmente un estudio de caso geológico que podría ser estudiado con
+real, sí intenta mostrar que potencialmente existe un estudio de caso geológico que podría ser estudiado con
 más calma y menos emociones cientificistas casi intolerantes a cualquier otro tipo de pensamiento. Es posible
-que sí exista un patrón y que este tipo de estudios aporten soluciones a la largo plazo o futuras generaciones
-en la comprohensión de los sismos y si no su predictabilidad, al menos su posible periodicidad o aumento de
-intensidad debido a factores que por ahora no han sido estudiados ampliamente como el clima, la cercanía de
+que sí exista un patrón y que este tipo de estudios aporten soluciones a largo plazo o a futuras generaciones
+en la comprohensión de los sismos, si no su predictabilidad, al menos su posible periodicidad, aumento de
+intensidad o frecuencia debido a factores que por ahora no han sido estudiados ampliamente como el clima, la cercanía de
 la Tierra al sol, los ciclos lunares, el aumento de temperatura global, los cambios de temperatura del lecho
 marino, la erosión, etcétera.
 
